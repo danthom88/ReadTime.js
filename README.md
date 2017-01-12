@@ -1,6 +1,6 @@
 # ReadTimer
 
-1. Add class "CountMe" to your article's container div.
+1. Add ```class="CountMe"``` to your article's container `<div>`.
 2. Add ```<i class="ReadTime"></i>``` where you want the read time estimate to display.
 
 ## Version notes
